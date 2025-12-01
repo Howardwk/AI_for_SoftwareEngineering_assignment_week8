@@ -14,11 +14,10 @@ I have designed a multi-agent simulation using Make.com to demonstrate the inter
 
 ### 🔗 Simulation Access
 
-**Make.com does not provide a public "view" link.** To evaluate this project, please use the following:
+(https://eu1.make.com/public/shared-scenario/Vaz5KVcJMwt/integration-webhooks-tools-slack)
 
 #### 1. To Run the Simulation (Trigger the Agent)
 Use this Webhook URL to send test data to the live agent:
-`[ https://eu1.make.com/public/shared-scenario/Vaz5KVcJMwt/integration-webhooks-tools-slack ]`
 
 *(Example: `https://hook.us1.make.com/xxxxxxxx?vibration=85&temperature=95&product_id=P-101`)*
 
